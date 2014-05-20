@@ -3,7 +3,16 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/php/www/CursoZF2/module/Application/src/Application/Controller/IndexController.php</file>
+            <file>file:/C:/php/www/CursoZF2/config/autoload/global.php</file>
+            <file>file:/C:/php/www/CursoZF2/module/Livraria/src/Livraria/Model/CartegoriaTable.php</file>
+            <file>file:/C:/php/www/CursoZF2/module/Livraria/config/module.config.php</file>
+            <file>file:/C:/php/www/CursoZF2/config/application.config.php</file>
+            <file>file:/C:/php/www/CursoZF2/module/Livraria/Module.php</file>
+            <file>file:/C:/php/www/CursoZF2/config/autoload/local.php</file>
+            <file>file:/C:/php/www/CursoZF2/module/Livraria/src/Livraria/Model/Cartegoria.php</file>
+            <file>file:/C:/php/www/CursoZF2/module/Livraria/view/livraria/index/index.phtml</file>
+            <file>file:/C:/php/www/CursoZF2/module/Livraria/src/Livraria/Controller/IndexController.php</file>
+            <file>file:/C:/php/www/CursoZF2/module/Livraria/src/Livraria/Model/CartegoriaService.php</file>
         </group>
     </open-files>
 </project-private>
